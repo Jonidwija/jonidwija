@@ -2,7 +2,7 @@
 
 My name is **Joni Dwija**.
 
-Im interested in programing with Python, Javascript, and C+.
+Im interested in programing with Python, and C+.
 
 You can follow me at [Linkedin](https://www.linkedin.com/in/ikadekjonidwijaaryputra/).
 
